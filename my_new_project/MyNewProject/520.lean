@@ -12,3 +12,8 @@ example : (a ∪ b)ᶜ = aᶜ ∩ bᶜ  := by
 
 example : 1 + 1 = 2 := by
   trivial
+
+variable {n : Nat}
+
+example : 259 + 18 = 277 := by
+  trivial
